@@ -1,3 +1,4 @@
+
 package com.cydeo.service;
 
 import com.cydeo.model.Employee;
@@ -18,10 +19,5 @@ public class EmployeeService {
     public List<Employee> readAllEmployees() {
         return employeeList;
     }
-
-    //
-
-
-
 
 }
